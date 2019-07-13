@@ -1,2 +1,0 @@
-# miglesprojects
-Migle Kubiliute
